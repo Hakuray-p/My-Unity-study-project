@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d3d88cefb6aa03c418b54a0307ec5343
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soulGrass: {fileID: 11400000, guid: 960ec39968d487e4983f376a1e759a68, type: 2}
+  - monsterHeart: {fileID: 11400000, guid: 81f2039bfaae37b40b22dc89fbba5d90, type: 2}
+  - monsterCore: {fileID: 11400000, guid: 238b32ee62a405742b75d7993215dab8, type: 2}
+  - soulGrassText: {instanceID: 0}
+  - heartText: {instanceID: 0}
+  - coreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
